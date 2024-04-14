@@ -1,4 +1,5 @@
 # **CAPE Instructor Recommendation Rates**
+*Kacie Li, Van Nguyen, Andrew Pan, Kaushika Uppu*
 
 The practice of Student Evaluations of Teaching (SET) is widespread across colleges and universities globally. Originating in the early 1920s, these evaluations are typically conducted at the conclusion of each academic term to gather insights from students regarding their experiences with instructors and courses. SET questionnaires commonly comprise a series of questions prompting students to assess their instructor’s performance in areas such as clarity, organization, engagement, and overall effectiveness1. At UCSD, these evaluations are made public on Course and Professor Evaluations (CAPE), a platform managed by students to showcase collegiate opinions. With a response rate exceeding 50%, CAPE results are utilized by administrators and instructors to identify strengths and weaknesses, refine teaching methods, and furnish evidence for tenure and promotion decisions.
 
